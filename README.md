@@ -150,19 +150,19 @@
 <div align="center">
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=abs-kawser1996&count_private=true&show_icons=true&theme=dracula" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=abs-kawser&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <br>
 <br>
 <a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abs-kawser1996&theme=dracula" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abs-kawser&theme=dracula" />
 </a>
 
 
 <br>
 <br>
 
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abs-kawser1996)   -->
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=abs-kawser1996&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abs-kawser)   -->
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=abs-kawser&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </div>
