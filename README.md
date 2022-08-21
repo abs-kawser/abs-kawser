@@ -19,7 +19,7 @@
 
 - 📫 How to reach me *abskawser77000@gmail.com*
 
-- ⚡ Fun fact *I love travel*
+- Know about my experiences [Resume](https://drive.google.com/file/d/1_sYwqrpX-IAvDTtqzANNrN5ivAqmJNQg/view?usp=sharing)
 
 <br>
 
