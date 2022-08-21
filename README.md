@@ -12,7 +12,8 @@
 </br>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abs-kawser1996&label=Profile%20views&color=0e75b6&style=flat" alt="abs-kawser1996" /></p>
+<p  align="center"> <img src="https://komarev.com/ghpvc/?username=abs-kawser1996&label=Profile%20views&color=0e75b6&style=flat" alt="abs-kawser1996" /></p>
+
 <!-- <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" align="center" width = 100px></h2> -->
 
     
