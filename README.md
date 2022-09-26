@@ -18,7 +18,7 @@
 
     
 
-- 🔭 I’m currently working on *React.js*
+- 🔭 I’m currently working on *React.js/Next.js*
 
 - 🌱 also learn Node,Express,MongoDB and manyMore.*
 
@@ -27,6 +27,8 @@
 - 🤝 I’m looking for help with *React.js*
 
 - 💬 Ask me about *React.js*
+
+- ⚡ <Fun-Fact I write code/>
 
 - 📫 How to reach me *abskawser77000@gmail.com*
 
