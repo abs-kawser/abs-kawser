@@ -28,7 +28,7 @@
 
 - 💬 Ask me about *React.js*
 
-- ⚡ <Fun-Fact I write code/>
+- ⚡ Fun-Fact I write code
 
 - 📫 How to reach me *abskawser77000@gmail.com*
 
