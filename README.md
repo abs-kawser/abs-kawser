@@ -32,7 +32,7 @@
 
 - 📫 How to reach me *abskawser77000@gmail.com*
 
-- Know about my experiences [Resume](https://drive.google.com/file/d/1_sYwqrpX-IAvDTtqzANNrN5ivAqmJNQg/view?usp=sharing)
+- Know about my experiences [Resume](https://drive.google.com/file/d/15xV0wDAIgebFlVJ9XQmQCm3KoQXC7tQp/view)
 
 <br>
 
