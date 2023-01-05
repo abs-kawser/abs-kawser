@@ -176,7 +176,7 @@
 <br>
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abs-kawser)   -->
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=abs-kawser&theme=react-dark)]
+[(https://activity-graph.herokuapp.com/graph?username=abs-kawser&theme=react-dark)]
 
 
   
