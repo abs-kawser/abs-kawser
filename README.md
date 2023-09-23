@@ -7,7 +7,8 @@
  
 
 <!-- <h1 align="center">Hi 👋, I'm Abs-Kawser</h1>
-<h3 align="center">A passionate frontend developer</h3> -->
+<h3 align="center">A passionate MERN  developer . Currently working as  Software Developer at Technology and Business Solutions Ltd |React Native| |Node.js, Nest.js, Express.js|</h3> -->
+<h3 align="center"></h3> -->
 </br>
 </br>
 
