@@ -19,19 +19,13 @@
 
     
 
-- 🔭 I’m currently working on *React.js/Next.js*
+- 🔭 I’m currently working on React Native,Node.js, Nest.js, Express.js
 
-- 🌱 also learn Node,Express,MongoDB and manyMore.*
+- 🌱 also learn Others things 
+ 
 
-- 👯 I’m looking to collaborate *with other Developers*
 
-- 🤝 I’m looking for help with *React.js*
-
-- 💬 Ask me about *React.js*
-
-- ⚡ Fun-Fact I write code
-
-- 📫 How to reach me *abskawser77000@gmail.com*
+- 📫 How to reach me *(https://www.linkedin.com/in/abu-bakar-siddique31/)*
 
 - Know about my experiences [Resume](https://drive.google.com/file/d/15xV0wDAIgebFlVJ9XQmQCm3KoQXC7tQp/view)
 
