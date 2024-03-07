@@ -19,9 +19,9 @@
 
     
 
-- 🔭 I’m currently working on React Native,Node.js, Nest.js, Express.js
+- 🔭 I’m currently working on React, React Native,Next.js,Node.js, Nest.js, and Express.js.
 
-- 🌱 also learn Others things 
+- 🌱 also learn Other things 
  
 
 
