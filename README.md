@@ -1,7 +1,7 @@
  <!-- Heading -->
  <h3 align="center"> Hello < Programmers/ > <img src = "https://raw.githubusercontent.com/abskawser/abskawser/main/wave.gif" width ="25">
    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&lines=I'm+ABS+Kawser;MERN+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&lines=I'm+Abu+Bakar+Siddique;React+Native+Developer)](https://git.io/typing-svg)
 
 </h3>
  
