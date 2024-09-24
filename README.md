@@ -58,13 +58,13 @@
       <a href="#">
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js style="max-width: 100%;" />
       </a>
-      <br> Next.js
-    </td>
-    <td align="center" width="96">
+      <br> Next.JS
+    </td> 
+     <td align="center" width="96">
       <a href="#">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" style="max-width: 100%;>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js style="max-width: 100%;" />
       </a>
-      <br>Node.js
+      <br> Node.JS 
     </td>
     <td align="center" width="96">
       <a href="#">
