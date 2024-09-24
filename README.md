@@ -56,25 +56,25 @@
 
    <td align="center" width="96">
       <a href="#">
-        <img src="https://camo.githubusercontent.com/b24794bf48946ae7053e015da9a19047d087b19d43cb1aff6f89341cc34e1dd4/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f642f64352f435353335f6c6f676f5f616e645f776f72646d61726b2e737667" width="48" height="48" alt="CSS" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" style="max-width: 100%;">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js style="max-width: 100%;" />
       </a>
-      <br>CSS 3
+      <br> Next.js
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://camo.githubusercontent.com/19c442403fb0e923bbc655300a74ce3175f68171d9331aa9fd1d4e6b9a84977c/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39392f556e6f6666696369616c5f4a6176615363726970745f6c6f676f5f322e737667" width="48" height="48" alt="Javascript" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" style="max-width: 100%;">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" style="max-width: 100%;>
       </a>
-      <br>Javascript
+      <br>Node.js
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://camo.githubusercontent.com/b3c60985de9c613b233acb4d5c3b620bbaec04d217c03b600b18e870712b53c3/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f642f64392f4e6f64652e6a735f6c6f676f2e737667" width="48" height="48" alt="NodeJS" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" style="max-width: 100%;">
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" style="max-width: 100%;">
       </a>
-      <br>NodeJS
+      <br>Express.js
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://camo.githubusercontent.com/faf0782d01ec9e993c2e258fa995f0fc9171a14969d2129bbf5a5816df7e7b62/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f72656163746a732f72656163746a732d69636f6e2e737667" width="48" height="48" alt="ReactJS" data-canonical-src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" style="max-width: 100%;">
+        <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js style="max-width: 100%;">
       </a>
       <br>ReactJS
     </td>
