@@ -70,27 +70,48 @@
       <a href="#">
         <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" style="max-width: 100%;">
       </a>
-      <br>Express.js
+      <br>Express.Js
     </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js style="max-width: 100%;">
       </a>
-      <br>ReactJS
+      <br>Nest.JS 
     </td>
-    <td align="center" width="96">
+    
+   <td align="center" width="96">
       <a href="#">
-        <img src="https://camo.githubusercontent.com/d2b2bdee44236df7530ad5622036e0f8aa2259fcfb84d653c7d90a7f5759a7fa/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65302f4769742d6c6f676f2e737667" width="48" height="48" alt="Git" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" style="max-width: 100%;">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="max-width: 100%;">
       </a>
-      <br>Git
+      <br>MongoDB
     </td>
-    <td align="center" width="96">
+
+   <td align="center" width="96">
+      <a href="#">
+        <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=javascript&logoColor=white" alt="Mongoose" style="max-width: 100%;">
+      </a>
+      <br>Mongoose
+    </td>
+
+
+   <td align="center" width="96">
+      <a href="#">
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" style="max-width: 100%;">
+      </a>
+      <br>SQLite
+    </td>
+
+
+
+
+    
+<!--     <td align="center" width="96">
       <a href="#">
         <img src="https://camo.githubusercontent.com/e76db96833cc2ba21cac7145b4446a5673a4e70026e0b215ab48b21ad9532648/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f622f62322f426f6f7473747261705f6c6f676f2e737667" width="48" height="48" alt="Bootstrap" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" style="max-width: 100%;">
       </a>
       <br>Bootstrap
-    </td>
-    <td align="center" width="96">
+    </td> -->
+<!--     <td align="center" width="96">
       <a href="#">
         <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" width="48" height="48" alt="Postman" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;">
       </a>
@@ -115,8 +136,8 @@
         <img src="https://camo.githubusercontent.com/55c96f41fc5dba5af624827c4205fdb469978360e0554d081b71cab80d0b2e1d/687474703a2f2f7777772e6572696b61736c616e642e636f6d2f7374617469632f696d616765732f6d6f6e676f6f73652e706e67" width="48" height="48" alt="Mongoose" style="max-width: 100%;">
       </a>
       <br>Mongoose
-    </td>
-    <td align="center" width="96">
+    </td> -->
+<!--     <td align="center" width="96">
       <a href="#">
         <img src="https://camo.githubusercontent.com/fb8f0070ec02bc94948f0a40a33d858f54c1c5c08b536f7daea3709f20f3de87/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f6c6f676f735f706167652f4f63746f6361742e706e67" width="48" height="48" alt="Github" data-canonical-src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" style="max-width: 100%;">
       </a>
@@ -145,7 +166,7 @@
         <img src="https://camo.githubusercontent.com/5734d0669fe22ce04a1cb989a156cd32c379875f6bca56d5210c9432824856d9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" width="48" height="48" alt="TailwindCSS" data-canonical-src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="max-width: 100%;">
       </a>
       <br>TailwindCSS
-    </td>
+    </td> -->
   </tr>
 </tbody></table>
 
