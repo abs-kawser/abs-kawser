@@ -43,14 +43,18 @@
 <h2> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"  align="center" width = 32px> </h2>
 
 <table>
-  <tbody><tr>
-<!--     <td align="center" width="96">
-      <a href="#">
-        <img src="https://camo.githubusercontent.com/afd3139a285295c960e8cab5f69d684aaf3831c631e218ae4483a29cd450f7d0/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f362f36312f48544d4c355f6c6f676f5f616e645f776f72646d61726b2e737667" width="48" height="48" alt="HTML" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" style="max-width: 100%;">
-      </a>
-      <br>HTML 5
-    </td> -->
+  <tbody>
+   <tr>
     <td align="center" width="96">
+      <a href="#">
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native style="max-width: 100%;" />
+      </a>
+      <br>React Native
+    </td>  
+   
+       
+
+   <td align="center" width="96">
       <a href="#">
         <img src="https://camo.githubusercontent.com/b24794bf48946ae7053e015da9a19047d087b19d43cb1aff6f89341cc34e1dd4/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f642f64352f435353335f6c6f676f5f616e645f776f72646d61726b2e737667" width="48" height="48" alt="CSS" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" style="max-width: 100%;">
       </a>
